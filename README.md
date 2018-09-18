@@ -1,2 +1,0 @@
-# Optisol-Business
-Project
